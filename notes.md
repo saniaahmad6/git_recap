@@ -21,5 +21,8 @@ git rebase -i lastneededcommitno
 
 pick or squash
 
+git fetch --all ->fetches everything from remote
+git branch -r -> remote branches
+
 
 
