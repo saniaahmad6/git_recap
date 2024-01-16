@@ -24,5 +24,7 @@ pick or squash
 git fetch --all ->fetches everything from remote
 git branch -r -> remote branches
 
+git push -d origin <nameofbranch>
+git branch -d <nameofbranch>
 
 
